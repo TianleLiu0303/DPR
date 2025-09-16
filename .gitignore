@@ -1,0 +1,5 @@
+*.tfrecord*
+__pycache__/
+*.pyc
+*.pyo
+*.so
